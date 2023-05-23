@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bagusDarma/static/css/main.ba60704c.css",
+    "main.js": "/bagusDarma/static/js/main.83192ce4.js",
+    "static/js/787.32d91862.chunk.js": "/bagusDarma/static/js/787.32d91862.chunk.js",
+    "static/media/card.jpg": "/bagusDarma/static/media/card.bedba309a56cf3bc4ade.jpg",
+    "static/media/card2.jpg": "/bagusDarma/static/media/card2.2e04bb6f1823d4f27bc1.jpg",
+    "static/media/card3.jpg": "/bagusDarma/static/media/card3.2e04bb6f1823d4f27bc1.jpg",
+    "static/media/home.jpg": "/bagusDarma/static/media/home.c93167ac1922080a822d.jpg",
+    "static/media/home1jpg.jpg": "/bagusDarma/static/media/home1jpg.424ecca5d04f769583ab.jpg",
+    "static/media/home2.jpg": "/bagusDarma/static/media/home2.7c5b47ceffee046376da.jpg",
+    "static/media/aktivity.jpg": "/bagusDarma/static/media/aktivity.58e3621ffb8d6c2c6905.jpg",
+    "static/media/Group.png": "/bagusDarma/static/media/Group.7ce3bd9d8b2f467cfa80.png",
+    "index.html": "/bagusDarma/index.html",
+    "main.ba60704c.css.map": "/bagusDarma/static/css/main.ba60704c.css.map",
+    "main.83192ce4.js.map": "/bagusDarma/static/js/main.83192ce4.js.map",
+    "787.32d91862.chunk.js.map": "/bagusDarma/static/js/787.32d91862.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba60704c.css",
+    "static/js/main.83192ce4.js"
+  ]
+}
